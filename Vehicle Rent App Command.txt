@@ -1,0 +1,14 @@
+Vehicle Rent App Command
+
+" Help me create an application for a Vehicle Rental. 
+1. The application should handle all the process such as look or check for a place in Google maps based on user input
+2. App will select and use the Fastest route from Google maps to be the Trip Distance
+3. App will perform the calculations based on the equations on the attached excel.
+
+Labels and View box with UOM will be displayed on the application. Also make the application look good and fancy."
+
+
+***Yun lang may bayad pag ginamit ang Google maps sa applications..XD***
+
+
+Wag na muna include ang Google maps, manual input muna.
